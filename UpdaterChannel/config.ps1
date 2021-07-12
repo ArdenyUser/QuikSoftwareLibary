@@ -56,13 +56,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT
 cd C:\CCdatQuik\LOT1
@@ -105,13 +105,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT1
 cd C:\CCdatQuik\LOT2
@@ -154,13 +154,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT2
 cd C:\CCdatQuik\LOT3
@@ -203,13 +203,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT3
 cd C:\CCdatQuik\LOT4
@@ -252,13 +252,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT4
 cd C:\CCdatQuik\LOT5
@@ -301,13 +301,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT5
 cd C:\CCdatQuik\LOT6
@@ -350,13 +350,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT6
 cd C:\CCdatQuik\LOT7
@@ -399,13 +399,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT7
 cd C:\CCdatQuik\LOT8
@@ -448,13 +448,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT8
 cd C:\CCdatQuik\LOT9
@@ -497,13 +497,13 @@ if ( Test-Path -Path .\3.jar -PathType Leaf ) {
     java 3.jar
 }
 if ( Test-Path -Path .\1.cmd -PathType Leaf ) {
-    1.
+    1.cmd
 }
 if ( Test-Path -Path .\2.cmd -PathType Leaf ) {
-    2.
+    2.cmd
 }
 if ( Test-Path -Path .\3.cmd -PathType Leaf ) {
-    3.
+    3.cmd
 }
 rmdir -Force C:\CCdatQuik\LOT9
 pause
