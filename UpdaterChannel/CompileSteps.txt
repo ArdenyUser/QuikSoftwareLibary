@@ -1,0 +1,9 @@
+Edit the config.ps1 file to fill it out. (NOTICE: This compiler is built using PS2EXE)
+Go to powershell -as admin- and run:
+
+Install-Module ps2exe
+
+Then -as admin- run:
+
+cd C:\QuikEngineGames\Dev\QuikEngine\Compresser
+Invoke-ps2exe .\config.ps1 .\Project.exe
