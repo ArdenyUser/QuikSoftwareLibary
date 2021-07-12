@@ -6,6 +6,19 @@ if ( $X -eq 'run' ) {
 cd .\Resources
 .\Qlib.bat
 }
+if ( $X -eg 'mkfile' ) {
+$F = Read-Host "File Name: "
+Set-Content -Path .\$F -Value ''
+}
+if ( $X -eg 'edfile' ) {
+$FN = Read-Host "File Name: "
+$DA = Read-Host "Data Adder: "
+Set-Content -Path .\$FN -Value $DA
+}
+if ( $X -eg 'refile' ) {
+$FNA = Read-Host "File Name: "
+Get-Content -Path .\$FNA
+}
 if ( $X -eq 'mount' ) {
 cd C:\QuikEngineGames\Dev\QuikEngine\Lots0\
 $md = Read-Host "Mount Lot: "
