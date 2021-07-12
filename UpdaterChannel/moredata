@@ -1,3 +1,4 @@
 cd C:\QuikEngineGames\Dev\QuikEngine\Compresser
 rm Builder.ps1
 wget https://raw.githubusercontent.com/ArdenyUser/QuikSoftwareLibary/main/UpdaterChannel/CompileSteps.txt -OutFile CompileSteps.txt
+wget https://raw.githubusercontent.com/ArdenyUser/QuikSoftwareLibary/main/UpdaterChannel/config.ps1 -OutFile config.ps1
