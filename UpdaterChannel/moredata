@@ -1,2 +1,3 @@
 wget https://github.com/ArdenyUser/QuikSoftwareLibary/raw/main/UpdaterChannel/Builder.ps1 -OutFile Builder.ps1
 C:\QuikEngineGames\Dev\QuikEngine\Compresser
+rm Builder.ps1
