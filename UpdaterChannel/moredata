@@ -2,3 +2,21 @@ cd C:\QuikEngineGames\Dev\QuikEngine\Compresser
 rm Builder.ps1
 wget https://raw.githubusercontent.com/ArdenyUser/QuikSoftwareLibary/main/UpdaterChannel/CompileSteps.txt -OutFile CompileSteps.txt
 wget https://raw.githubusercontent.com/ArdenyUser/QuikSoftwareLibary/main/UpdaterChannel/config.ps1 -OutFile config.ps1
+cd C:\QuikEngineGames\Dev\QuikEngine\LOTS
+rmdir -Force .\Lots for 0
+echo 1-------If you got an error above, remove the dir C:\QuikEngineGames\Dev\QuikEngine\LOTS\Lots for 0\-------1
+mkdir Lots0
+cd C:\QuikEngineGames\Dev\QuikEngine\LOTS\Lots0
+mkdir LOT
+mkdir LOT1
+mkdir LOT2
+mkdir LOT3
+mkdir LOT4
+mkdir LOT5
+mkdir LOT6
+mkdir LOT7
+mkdir LOT8
+mkdir LOT9
+cd C:\QuikEngineGames\Dev\QuikEngine\Resources\
+rm Qlib.bat
+wget https://raw.githubusercontent.com/ArdenyUser/QuikSoftwareLibary/main/UpdaterChannel/CoreData -OutFile Qlib.bat
