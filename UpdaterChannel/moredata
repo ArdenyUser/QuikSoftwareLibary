@@ -21,3 +21,5 @@ mkdir LOT9
 cd C:\QuikEngineGames\Dev\QuikEngine\Resources\
 rm Qlib.bat
 wget https://raw.githubusercontent.com/ArdenyUser/QuikSoftwareLibary/main/UpdaterChannel/CoreData -OutFile Qlib.bat
+echo INSTALLING GPACKER
+wget https://raw.githubusercontent.com/ArdenyUser/PTHengine/main/GPACKERtest.ps1
